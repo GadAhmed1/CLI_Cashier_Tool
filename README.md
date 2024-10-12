@@ -1,7 +1,5 @@
 # CLI Cashier Tool
 
-![CLI Cashier Tool](https://i.ibb.co/HXXYprq/Capture.png)
-
 **CLI Cashier Tool** is a command-line interface application designed to simplify cashier operations. Built with **Node.js** and the **commander** package, it offers an efficient way to handle sales transactions, manage inventory, and generate reports directly from your terminal.
 
 ## Features
@@ -23,4 +21,4 @@ To get started with the CLI Cashier Tool, follow these steps:
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/CLI_Cashier_Tool.git
+git https://github.com/GadAhmed1/CLI_Cashier_Tool.git
